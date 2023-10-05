@@ -1,0 +1,4 @@
+- 👋 Hello World !
+- 👀 We are a software development team
+- 🌱 News projects coming
+- 📫 follow us --> @wy.no_
